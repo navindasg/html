@@ -37,16 +37,6 @@ b {
   font-size:15pt; 
 }
 
-#divOne {
-  background-color:#1853ff;
-  height:100px;
-  width:100px;
-  color:#21ffe1;
-  padding-top:70px;
-  padding-left:70px;
-  margin:89px;      
-}
-
 #divTwo {
   background-color:#00cc33;
   height:100px;
@@ -60,17 +50,8 @@ b {
   list-style-type:square; 
 }
 
-#divThree {
-  background-color:transparent;
-  border:green solid 5px;
-  height:100px; 
-  width:100px; 
-}
-
-#divFour {
-  background-color:red;
-  height:10px;
-  width:10px;  
+* {  
+  margin:0; 
 }
 }
 
