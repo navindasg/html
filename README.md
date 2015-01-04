@@ -1,3 +1,3 @@
 html
 ====
-use all or it wont work
+use all documents or it wont work
