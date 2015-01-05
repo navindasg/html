@@ -55,5 +55,12 @@ b {
 }
 
 .hr {
-  background-color:purple ;
+  background-color:purple;
+}
+
+#divThree {
+  background-color:#6600ff;
+  height:100px;
+  width:100px;
+  margin:10px;
 }
