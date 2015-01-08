@@ -63,4 +63,23 @@ b {
   height:100px;
   width:100px;
   margin:10px;
+  color:#ff000a; 
+}
+
+#tableOne {
+  font-family:fantasy;
+}
+
+#divFour {
+  background-color:green;
+  height:100px;
+  width:100px;
+  float:left; 
+}
+
+#divFive {
+  background-color:red;
+  height:100px;
+  width:100px;
+  float:right;    
 }
